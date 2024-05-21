@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunsahukar{
+- 👋 Hi, I’m @varunsahukar {
 - 👀 I’m interested in  coding;
 - 🌱 I’m currently learning JAVA+DSA,WEB DEVELOPMENT;
 - 💞️ I’m looking to collaborate on PAID PROJECTS;
