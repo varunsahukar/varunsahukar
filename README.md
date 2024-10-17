@@ -1,4 +1,4 @@
-[![MasterHead](https://developergifs.netlify.app/gifs/JavaScript.gif)]
+[MasterHead](https://developergifs.netlify.app/gifs/JavaScript.gif)
 <h1 align="center">Hi 👋, I'm Varun Sahukar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif">
