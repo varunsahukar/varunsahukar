@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsahukar&label=Profile%20views&color=0e75b6&style=flat" alt="varunsahukar" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **fronted Dev**
 
