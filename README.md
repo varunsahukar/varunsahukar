@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Varun Sahukar</h1>
+<h1 align="center">Hey 🤝, I'm Varun Sahukar</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **fronted Dev**
+- 💬 Ask me about **FRONTEND DEVELOPMENT**
 
 - 📫 How to reach me -> **varunsahukar9798@gmail.com**
 
