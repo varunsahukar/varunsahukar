@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/varun-sahukar-vs9798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun sahukar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27849561/varun-sahukar?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="varun sahukar" height="30" width="40" /></a>
 <a href="https://instagram.com/btw_varunsahukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw_varunsahukar" height="30" width="40" /></a>
 </p>
 
