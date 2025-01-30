@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey 🤝, I'm Varun Sahukar</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A Passionate Java  Developer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsahukar&label=Profile%20views&color=0e75b6&style=flat" alt="varunsahukar" /> </p>
 
-- 🌱 I’m currently learning - **React.js**
+- 🌱 I’m currently learning - **Springboot **
 
-- 💬 Ask me about - **FRONTEND DEVELOPMENT**
+- 💬 Ask me about - **Full Stack DEVELOPMENT**
 
 - 📫 How to reach me - **varunsahukar9798@gmail.com**
 
