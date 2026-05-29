@@ -4,7 +4,7 @@
 
 ## varun sahukar
 
-**FullStack Developer**
+**A FullStack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunsahukar9798/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varunsauhkar9798@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://varunsahukar9798-portfoilo.vercel.app/)
 
@@ -14,12 +14,3 @@ I'm a full-stack developer, and I take ownership of the entire product lifecycle
 
 > Building something interesting? Let's connect: https://varunsahukar9798-portfoilo.vercel.app/
 
-## Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
-
-<div align="center">
-
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://varunsahukar9798-portfoilo.vercel.app/)</sub>
-
-</div>
