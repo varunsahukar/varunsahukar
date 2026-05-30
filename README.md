@@ -14,8 +14,3 @@ I'm a full-stack developer, and I take ownership of the entire product lifecycle
 
 > Building something interesting? Let's connect: https://varunsahukar9798-portfoilo.vercel.app/
 
-<div align="center">
-
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://varunsahukar9798-portfoilo.vercel.app/)</sub>
-
-</div>
