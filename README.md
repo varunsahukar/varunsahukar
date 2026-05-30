@@ -12,5 +12,5 @@
 
 I'm a full-stack developer, and I take ownership of the entire product lifecycle from architecting robust APIs and scalable data models to building intuitive, high performance user interfaces. I focus on creating reliable and resilient systems that solve real problems and deliver seamless user experiences.
 
-[![varunsahukar](https://img.shields.io/badge/varunsahukar-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://varunsahukar9798-portfoilo.vercel.app/)
+
 
