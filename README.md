@@ -4,7 +4,7 @@
 
 ## varun sahukar
 
-**Software Developer**
+**Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunsahukar9798/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varunsauhkar9798@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://varunsahukar9798-portfoilo.vercel.app/)
 
